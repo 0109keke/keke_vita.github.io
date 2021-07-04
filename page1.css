@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(231, 220, 231);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: small;
+}
+.home {
+  background-image: url(./image/home_backg.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  margin: 2% 20%;
+  width: 800px;
+  height: 800px;
+}
+.home_text {
+  padding-top: 20%;
+  padding-left: 43%;
+  letter-spacing: 2px;
+  font-size: 15px;
+}
+.home_textp {
+  width: 120px;
+  height: 100px;
+  padding: 40%;
+  padding-top: 2%;
+}
+nav{
+    padding-left: 38%;
+    margin-top: -20%;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav ul li{
+    margin-top: 10px;
+    width: 200px;
+    height: 20px;
+}
+a.home_link:link{
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: rgb(107, 72, 107);
+}
+a.home_link:visited{
+    color: rgb(107, 72, 107);
+}
+a.home_link:hover{
+    color: lightpink;
+    background-color: rgb(175, 42, 175);
+}
+a.home_link:active{
+    color: black;
+}

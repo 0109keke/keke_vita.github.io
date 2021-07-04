@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(231, 220, 231);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: small;
+}
+.page4 {
+  background-image: url(./image/page4_backg.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  margin: 2% 20%;
+  width: 800px;
+  height: 1200px;
+}
+h1 {
+  padding-left: 300px;
+  padding-top: 10%;
+}
+table {
+  width: auto;
+  height:auto;
+  margin-left: 15%;
+  margin-top: 100px;
+  border-spacing: 10px;
+  border: 2px solid rgb(185, 147, 190);
+}
+td{
+    border: 1px solid rgb(185, 147, 190);
+}
+.type1_1{
+    width: 100px;
+}
+.type1_2{
+    width: 200px;
+}
+.page4_pic{
+    width: 200px;
+    height: 200px;
+}
+.type1_3{
+    width: 200px;
+    font-size: 10px;
+    font-weight: 600;
+    padding-left: 50px;
+}

@@ -1,0 +1,97 @@
+body {
+  background-color: rgb(231, 220, 231);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: small;
+}
+.page3 {
+  background-image: url(./image/page3_backg.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  margin: 2% 20%;
+  width: 800px;
+  height: 1200px;
+}
+h1 {
+  padding-left: 250px;
+  padding-top: 10%;
+}
+.page3_index {
+  width: 380px;
+  height: 100px;
+  margin-left: 150px;
+  margin-top: 30px;
+  padding-left: 100px;
+  padding-top: 10px;
+  font-size: 15px;
+  font-family: KaiTi;
+  font-weight: 700;
+  border: 2px solid rgb(185, 147, 190);
+}
+.page3_indexp {
+  width: 50px;
+  height: 50px;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+.part1 {
+  width: 450px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 2px solid rgb(168, 157, 211);
+}
+.page3_p1 {
+  width: 200px;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.part1_text {
+  width: 200px;
+  height: 150px;
+  margin-left: 220px;
+  margin-top: -150px;
+  font-size: 10px;
+}
+a.page3_link:link {
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-decoration: none;
+  color: rgb(207, 95, 112);
+}
+a.page3_link:visited {
+  color: rgb(207, 95, 112);
+}
+a.page3_link:hover {
+  color: lightpink;
+  background-color: rgb(148, 175, 190);
+}
+a.page3_link:active {
+  color: black;
+}
+.part1_index {
+  margin-top: 20px;
+  font-size: 12px;
+}
+.part2 {
+  width: 450px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 320px;
+  border: 2px solid rgb(168, 157, 211);
+}
+.part4 {
+  width: 750px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 2px solid rgb(168, 157, 211);
+}
+.part1_text2 {
+  width: 200px;
+  height: 150px;
+  margin-left: 500px;
+  margin-top: -160px;
+  font-size: 10px;
+}

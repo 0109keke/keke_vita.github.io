@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(231, 220, 231);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: small;
+}
+.page2 {
+  background-image: url(./image/page2_backg.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  margin: 2% 20%;
+  width: 800px;
+  height: 1200px;
+}
+h1 {
+  padding-left: 35%;
+  padding-top: 10%;
+}
+.part1 {
+  width: 400px;
+  height: 250px;
+  margin-top: 50px;
+  margin-left: 20px;
+  border: 2px solid rgb(243, 213, 238);
+}
+.page2_pic {
+  width: 150px;
+  height: 200px;
+  padding-top: 20px;
+  padding-left: 10px;
+  float: left;
+}
+.part1_text {
+  width: 200px;
+  height: 200px;
+  padding-top: 50px;
+  margin-left: 180px;
+  font-size: 13px;
+  font-weight: 600;
+  color: rgb(194, 78, 132);
+  letter-spacing: 2px;
+}
+.part2 {
+  width: 400px;
+  height: 250px;
+  margin-top: 50px;
+  margin-left: 350px;
+  border: 2px solid rgb(243, 213, 238);
+}
